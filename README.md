@@ -15,12 +15,12 @@ For students, follow these steps:
 - Finally, complete your details below, commit and push back to your github tutorial repository
 
 #### My details:
-
+https://travis-ci.org/profile/davidkaliner
 - Excercise: HW4 - TDD
-- Name:  
-- ID#:
-- github username: 
-- Estimation of hours I worked on it: 
+- Name:  David Kaliner  
+- ID#: 319563680
+- github username: davidkaliner
+- Estimation of hours I worked on it: 3
 
 If you have an improvement suggestion or a bug fix for this tutorial, please open an issue [here](https://github.com/jce-il/learn-mocha/issues) or send a PR with a fix.
 
@@ -458,6 +458,8 @@ https://github.com/dwyl/learn-travis
 There are other tool that can be chained, see for example the badges in the begining of this page.
 
 Update the link below in the README file, to point to **your** repository status (as well as in the beginning).
+
+https://travis-ci.org/profile/davidkaliner
 
 [![Travis Build Status](https://travis-ci.org/jce-il/learn-mocha.svg)](https://travis-ci.org/jce-il/learn-mocha)
 
